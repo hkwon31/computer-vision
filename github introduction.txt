@@ -12,8 +12,14 @@ GIT Initial SETTINGS
 7. git commit -> add some comments on the file and so write and quit
 8. git log(to check what you have changed)
 9. git remote add origin(name) "https://github.com/hkwon31/computer-vision.git"
-10. git push origin master
+10. git push -u origin master
 
+
+AFTER SETTINGS
+
+1. git add files
+2. git commit -m ""
+3. git push -u origin master
 
 
 
