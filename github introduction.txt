@@ -1,0 +1,21 @@
+
+GIT Initial SETTINGS
+
+1. open gitbash file
+2. move to the file you want to use as a GIT repository.
+3. git init (set up the repository where you are)
+(After step 3, you can see .git file at your current file)
+4. git add files/all (add the files you want to store)
+(git status <- you can check untracked files by using this command.)
+5. git config --global user.name "your nickname"
+6. git config --global user.email "your email"
+7. git commit -> add some comments on the file and so write and quit
+8. git log(to check what you have changed)
+9. git remote add origin(name) "https://github.com/hkwon31/computer-vision.git"
+10. git push origin master
+
+
+
+
+
+
